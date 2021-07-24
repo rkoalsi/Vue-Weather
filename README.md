@@ -1,5 +1,7 @@
 # vue-weather
 
+Basic Weather app using weather api
+
 ## Project setup
 ```
 yarn install
